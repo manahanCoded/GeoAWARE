@@ -51,7 +51,6 @@ Short project description – An Application for Reporting and Providing Visuali
 - Version Control: Git Bash, GitHub
 
 ## Features
-List the key features of your application:
 
 - Feature 1: Report in Realtime
 - Feature 2: Mapout Crimes
