@@ -66,7 +66,7 @@ List the key features of your application:
 
 ## Installation
 1. Clone the repository:
-    git clone https://github.com/username/repo-name.git
+    git clone [https://github.com/username/repo-name.git](https://github.com/manahanCoded/GeoAWARE.git)
 
 2. Navigate to the project directory:
     Server: 
