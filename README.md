@@ -3,7 +3,7 @@
 
 Short project description – An Application for Reporting and mapping out Crimes
 
-![App Screenshot](./client/public/img/logo.png)
+![App Screenshot](./new_client/public/img/logo.png)
 
 ## Table of Contents
 
