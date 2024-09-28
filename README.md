@@ -1,7 +1,7 @@
 
 # GeoAWARE
 
-Short project description – An Application for Reporting and Providing Visualization of Real-time report mapping Crimes.
+Short project description – An Application for Reporting and Providing Visualization of Real-time Reported Crimes Through a Map.
 
 ![App Screenshot](./new_client/public/img/logo.png)
 
